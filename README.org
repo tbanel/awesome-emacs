@@ -344,6 +344,7 @@ Above all, enjoy using Emacs. The community, more than anything, makes Emacs a g
    - [[https://github.com/bbatsov/crux][crux]] - A Collection of Ridiculously Useful eXtensions for Emacs.
    - [[https://github.com/jorgenschaefer/typoel][typo.el]] - Emacs extension for typographical editing.
    - [[https://github.com/sulami/literate-calc-mode.el][literate-calc-mode]] - display live =calc= results inline.
+   - [[https://github.com/tbanel/uniline][uniline-mode]] - Enhance your texts with UNICODE drawings (somewhat like artist-mode, but in UNICODE).
 
 *** Indentation Enhancement
 
